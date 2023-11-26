@@ -1,0 +1,4 @@
+[Misc]
+MinUnitSpeed=50.0
+PawnItemRate=0.2
+

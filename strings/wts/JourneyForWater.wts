@@ -1,0 +1,461 @@
+﻿STRING 1
+{
+Journey for Water
+}
+
+STRING 2
+{
+Humans
+}
+
+STRING 3
+{
+A tribe of elves travels the desert in search for a new home.
+}
+
+STRING 4
+{
+WaterKnight
+}
+
+STRING 5
+{
+Spieler 1
+}
+
+STRING 7
+// Doodads: D000 (Imported_Grass), Name (Name (dnam))
+{
+Imported_Grass
+}
+
+STRING 8
+{
+Spieler 2
+}
+
+STRING 9
+{
+Spieler 3
+}
+
+STRING 10
+{
+Spieler 4
+}
+
+STRING 11
+{
+Spieler 5
+}
+
+STRING 12
+{
+Spieler 6
+}
+
+STRING 13
+{
+Spieler 7
+}
+
+STRING 14
+{
+Spieler 8
+}
+
+STRING 15
+{
+Spieler 9
+}
+
+STRING 16
+{
+Spieler 10
+}
+
+STRING 17
+{
+Spieler 11
+}
+
+STRING 18
+{
+Spieler 12
+}
+
+STRING 21
+{
+Priests
+}
+
+STRING 22
+// Doodads: YOfn (used_Springbrunnen), Name (Name (dnam))
+{
+used_Springbrunnen
+}
+
+STRING 23
+// Doodads: YOfr (used_Brunnen), Name (Name (dnam))
+{
+used_Brunnen
+}
+
+STRING 24
+// Fähigkeiten: Awrs (used_Kriegsdonner), Name (Name (anam))
+{
+used_Kriegsdonner
+}
+
+STRING 25
+// Fähigkeiten: ACro (used_Gebrüll), Name (Name (anam))
+{
+used_Gebrüll
+}
+
+STRING 26
+// Fähigkeiten: ACuf (used_Unheilige Raserei), Name (Name (anam))
+{
+used_Unheilige Raserei
+}
+
+STRING 27
+// Fähigkeiten: ACs9 (used_Wildgeist), Name (Name (anam))
+{
+used_Wildgeist
+}
+
+STRING 28
+// Fähigkeiten: A000 (used_Sturmschlag), Name (Name (anam))
+{
+used_Sturmschlag
+}
+
+STRING 30
+// Fähigkeiten: A002 (used_Heilen), Name (Name (anam))
+{
+used_Heilen
+}
+
+STRING 31
+// Fähigkeiten: A003 (used_Magie bannen), Name (Name (anam))
+{
+used_Magie bannen
+}
+
+STRING 32
+// Fähigkeiten: A004 (used_Wildgeist), Name (Name (anam))
+{
+used_Wildgeist
+}
+
+STRING 33
+// Fähigkeiten: A005 (used_Unheilige Raserei), Name (Name (anam))
+{
+used_Unheilige Raserei
+}
+
+STRING 34
+// Fähigkeiten: A000 (used_Sturmschlag), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+Q
+}
+
+STRING 35
+// Fähigkeiten: A000 (used_Sturmschlag), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00Q|r) Stormbolt
+}
+
+STRING 36
+// Fähigkeiten: A002 (used_Heilen), Unhotkey (Tastaturkürzel - Ausschalten (auhk))
+{
+Q
+}
+
+STRING 37
+// Fähigkeiten: A002 (used_Heilen), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+Q
+}
+
+STRING 38
+// Fähigkeiten: A002 (used_Heilen), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00Q|r) Heal
+}
+
+STRING 39
+// Fähigkeiten: A003 (used_Magie bannen), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00W|r) Dispel Magic
+}
+
+STRING 40
+// Fähigkeiten: A003 (used_Magie bannen), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+W
+}
+
+STRING 41
+// Fähigkeiten: A004 (used_Wildgeist), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00Q|r) Summon Boars
+}
+
+STRING 42
+// Fähigkeiten: A004 (used_Wildgeist), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+Q
+}
+
+STRING 43
+// Fähigkeiten: A005 (used_Unheilige Raserei), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00E|r) Unholy Rage
+}
+
+STRING 44
+// Fähigkeiten: A005 (used_Unheilige Raserei), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+E
+}
+
+STRING 45
+// Fähigkeiten: A006 (used_Schmetterwelle), Name (Name (anam))
+{
+used_Schmetterwelle
+}
+
+STRING 46
+// Fähigkeiten: A006 (used_Schmetterwelle), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00E|r) Water Wave
+}
+
+STRING 47
+// Fähigkeiten: A006 (used_Schmetterwelle), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+E
+}
+
+STRING 48
+// Fähigkeiten: A007 (used_Sengpfeile), Unhotkey (Tastaturkürzel - Ausschalten (auhk))
+{
+W
+}
+
+STRING 49
+// Fähigkeiten: A007 (used_Sengpfeile), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+W
+}
+
+STRING 50
+// Fähigkeiten: A007 (used_Sengpfeile), Name (Name (anam))
+{
+used_Sengpfeile
+}
+
+STRING 51
+// Fähigkeiten: A007 (used_Sengpfeile), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00W|r) Searing Arrows
+}
+
+STRING 52
+// Fähigkeiten: A008 (used_Stomp), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00W|r) Stomp
+}
+
+STRING 53
+// Fähigkeiten: A008 (used_Stomp), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+W
+}
+
+STRING 54
+// Fähigkeiten: A008 (used_Stomp), Name (Name (anam))
+{
+used_Stomp
+}
+
+STRING 55
+// Fähigkeiten: A001 (used_Blitzschild), Name (Name (anam))
+{
+used_Blitzschild
+}
+
+STRING 56
+// Fähigkeiten: A001 (used_Blitzschild), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+E
+}
+
+STRING 57
+// Fähigkeiten: A001 (used_Blitzschild), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00E|r) Lightning Shield
+}
+
+STRING 58
+// Fähigkeiten: A009 (used_Blizzard), Name (Name (anam))
+{
+used_Blizzard
+}
+
+STRING 59
+// Fähigkeiten: A009 (used_Blizzard), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+E
+}
+
+STRING 60
+// Fähigkeiten: A009 (used_Blizzard), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00E|r) Blizzard
+}
+
+STRING 62
+{
+Warriors
+}
+
+STRING 63
+{
+Rangers
+}
+
+STRING 65
+// Einheiten: N000 (Warrior), Name (Name (unam))
+{
+Warrior
+}
+
+STRING 67
+// Einheiten: N001 (Ranger), Name (Name (unam))
+{
+Ranger
+}
+
+STRING 69
+// Einheiten: N002 (Priest), Name (Name (unam))
+{
+Priest
+}
+
+STRING 70
+// Fähigkeiten: A00A (used_Sternenregen), Name (Name (anam))
+{
+used_Sternenregen
+}
+
+STRING 71
+// Fähigkeiten: A00B (used_Feuerbrand), Name (Name (anam))
+{
+used_Feuerbrand
+}
+
+STRING 72
+// Einheiten: Hkal (Kael), Name (Name (unam))
+{
+Kael
+}
+
+STRING 73
+// Einheiten: Etyr (Tyrande), Name (Name (unam))
+{
+Tyrande
+}
+
+STRING 74
+// Einheiten: e001 (flamestrike), Name (Name (unam))
+{
+flamestrike
+}
+
+STRING 75
+// Einheiten: hbew (Van), Name (Name (unam))
+{
+Van
+}
+
+STRING 76
+// Einheiten: edcm (Juggernaut), Name (Name (unam))
+{
+Juggernaut
+}
+
+STRING 77
+// Einheiten: N000 (Warrior), Propernames (Eigennamen (upro))
+{
+Warrior
+}
+
+STRING 78
+// Einheiten: N001 (Ranger), Propernames (Eigennamen (upro))
+{
+Ranger
+}
+
+STRING 79
+// Einheiten: N002 (Priest), Propernames (Eigennamen (upro))
+{
+Priest
+}
+
+STRING 80
+// Fähigkeiten: A00D (used_Reinkarnation), Name (Name (anam))
+{
+used_Reinkarnation
+}
+
+STRING 81
+// Einheiten: n003 (Fountain), Name (Name (unam))
+{
+Fountain
+}
+
+STRING 82
+// Fähigkeiten: A00F (used_Spott), Name (Name (anam))
+{
+used_Spott
+}
+
+STRING 83
+// Fähigkeiten: A00G (used_Heiliges Licht), Name (Name (anam))
+{
+used_Heiliges Licht
+}
+
+STRING 84
+// Fähigkeiten: A00G (used_Heiliges Licht), Unhotkey (Tastaturkürzel - Ausschalten (auhk))
+{
+Q
+}
+
+STRING 85
+// Fähigkeiten: A00G (used_Heiliges Licht), Hotkey (Tastaturkürzel - Normal (ahky))
+{
+Q
+}
+
+STRING 86
+// Fähigkeiten: A00G (used_Heiliges Licht), Tip (Tooltipp - Normal (atp1))
+{
+(|cffffcc00Q|r) Heal
+}
+
+STRING 87
+// Fähigkeiten: A005 (used_Unheilige Raserei), Ubertip (Tooltipp - Normal - Erweitert (aub1))
+{
+Increases the target's attack rate by 150% for 15 seconds.
+}
+
+STRING 88
+// Fähigkeiten: S000 (used_Lebendiebstahl), Name (Name (anam))
+{
+used_Lebendiebstahl
+}
+
