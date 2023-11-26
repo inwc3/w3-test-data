@@ -21,6 +21,30 @@
                 <directory>info</directory>
                 <targetPath>info</targetPath>
             </resource>
+            <resource>
+                <directory>asset</directory>
+                <targetPath>asset</targetPath>
+            </resource>
+            <resource>
+                <directory>env</directory>
+                <targetPath>env</targetPath>
+            </resource>
+            <resource>
+                <directory>object</directory>
+                <targetPath>object</targetPath>
+            </resource>
+            <resource>
+                <directory>script</directory>
+                <targetPath>script</targetPath>
+            </resource>
+            <resource>
+                <directory>skin</directory>
+                <targetPath>skin</targetPath>
+            </resource>
+            <resource>
+                <directory>strings</directory>
+                <targetPath>strings</targetPath>
+            </resource>
         </resources>
     </build>
 </project>
