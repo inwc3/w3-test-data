@@ -34,6 +34,10 @@
                 <targetPath>object</targetPath>
             </resource>
             <resource>
+                <directory>save</directory>
+                <targetPath>save</targetPath>
+            </resource>
+            <resource>
                 <directory>script</directory>
                 <targetPath>script</targetPath>
             </resource>
